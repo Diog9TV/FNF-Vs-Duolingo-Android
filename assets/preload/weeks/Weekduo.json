@@ -1,0 +1,39 @@
+{
+	"storyName": "Duo's Lessons!",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Phone",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Lesson",
+			"duo1",
+			[
+				155,
+				215,
+				35
+			]
+		],
+		[
+			"Warning",
+			"duo2",
+			[
+				86,
+				175,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
