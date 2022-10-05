@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DuoArg Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DuoArg Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DuoArg Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DuoArg Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DuoArg Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DuoArg",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "duo2",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		155,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DuoHappy Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DuoHappy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DuoHappy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DuoHappy Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DuoHappy Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DuoHappy",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "duo1",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		255,
+		0
+	],
+	"camera_position": [
+		-280,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}
